@@ -13,8 +13,8 @@ const About = () => {
           </p>
           <h3 className="text-xl md:text-2xl font-semibold mb-4 text-blue-300">Educational Background</h3>
           <ul className="mb-6 text-gray-300 list-disc list-inside">
-            <li><strong>Bachelor’s Degree in Electronics and Communication Engineering (ECE)</strong> – K. Ramakrishnan College of Engineering, 2025</li>
-            <li><strong>Certifications:</strong> MERN Full Stack, Prompt Engineering, Generative AI, Cloud Computing</li>
+            <li><strong>Bachelor’s Degree in Computer Science Engineering (CSE)</strong> – Oasys Institute of Technology, 2025</li>
+            <li><strong>Certifications:</strong> MERN Full Stack, Prompt Engineering, Data Science Job Simulation, Networking Essentials, Generative AI, Cloud Computing</li>
           </ul>
           <h3 className="text-xl md:text-2xl font-semibold mb-4 text-blue-300">Professional Experience</h3>
           <ul className="mb-6 text-gray-300 list-disc list-inside">
